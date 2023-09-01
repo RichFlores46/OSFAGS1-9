@@ -6,7 +6,7 @@
 body{
     overflow-x: hidden;
     background-color: rgb(215, 215, 215);
-    
+    touch-action: pan-y;
 }
 html{
     scroll-behavior: smooth;
